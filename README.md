@@ -1,6 +1,6 @@
-# End-to-End-Customer-Behaviour-Analytics-Pipeline-Python-PostgreSQL-Power-BI-
+# Customer-Behaviour-Analytics-Pipeline-Python-PostgreSQL-Power-BI-
 
-End-to-end customer behaviour analytics project analyzing 3,900 retail transactions using Python for data cleaning, PostgreSQL for business analysis, and Power BI for interactive dashboards to uncover spending patterns, customer segmentation, and revenue drivers.
+Customer behaviour analytics project is about analyzing 3,900 retail transactions using Python for data cleaning, PostgreSQL for business analysis, and Power BI for interactive dashboards to uncover spending patterns, customer segmentation, and revenue drivers.
 
 This project analyzes customer shopping behavior using 3,900 retail transactions to uncover insights about purchasing patterns, product performance, discount effectiveness, and customer loyalty.
 
@@ -63,11 +63,11 @@ PostgreSQL was used to answer key business questions such as:
 
 - ## Key Insights
 
-• Non-discounted purchases generated 57% of total revenue, while discounted purchases generated 43%.
-• Subscription adoption increases slightly with customer loyalty.
-• The top 35% of customers generate around 50% of total revenue, indicating moderate revenue concentration.
-• Revenue distribution across age groups is relatively balanced.
-• Certain products within categories dominate revenue, such as Jewelry and Sunglasses in Accessories.
+- Non-discounted purchases generated 57% of total revenue, while discounted purchases generated 43%.
+- Subscription adoption increases slightly with customer loyalty.
+-The top 35% of customers generate around 50% of total revenue, indicating moderate revenue concentration.
+- Revenue distribution across age groups is relatively balanced.
+- Certain products within categories dominate revenue, such as Jewelry and Sunglasses in Accessories.
 
 ## Power BI Dashboard
 
