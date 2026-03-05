@@ -10,6 +10,12 @@ Python → Data Cleaning
 PostgreSQL → Business Analysis using SQL  
 Power BI → Interactive Dashboard
 
+## Business Problem
+
+Retail businesses need to understand customer purchasing behavior to improve revenue, marketing strategies, and customer retention.
+
+This project analyzes customer transaction data to identify spending patterns, evaluate the impact of discounts, understand customer loyalty, and determine which product categories drive the most revenue.
+
 ## Project Architecture
 
 Raw Dataset  
@@ -61,13 +67,13 @@ PostgreSQL was used to answer key business questions such as:
 - Top performing product categories
 - Revenue distribution across age groups
 
-- ## Key Insights
+ ## Key Insights
 
-- Non-discounted purchases generated 57% of total revenue, while discounted purchases generated 43%.
-- Subscription adoption increases slightly with customer loyalty.
--The top 35% of customers generate around 50% of total revenue, indicating moderate revenue concentration.
-- Revenue distribution across age groups is relatively balanced.
-- Certain products within categories dominate revenue, such as Jewelry and Sunglasses in Accessories.
+ - Non-discounted purchases generated 57% of total revenue, while discounted purchases generated 43%.
+ - Subscription adoption increases slightly with customer loyalty.
+ -The top 35% of customers generate around 50% of total revenue, indicating moderate revenue concentration.
+ - Revenue distribution across age groups is relatively balanced.
+ - Certain products within categories dominate revenue, such as Jewelry and Sunglasses in Accessories.
 
 ## Power BI Dashboard
 
